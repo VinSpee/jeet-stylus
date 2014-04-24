@@ -1,0 +1,27 @@
+{
+  "name": "jeet-stylus",
+  "version": "5.1.3",
+  "homepage": "http://jeet.gs/",
+  "authors": [
+    "Cory Simmons <cory@mojotech.com>"
+  ],
+  "description": "The most advanced, yet intuitive, Stylus grid system available.",
+  "main": "jeet/index.styl",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "jeet",
+    "grid",
+    "stylus",
+    "ratios"
+  ],
+  "license": "GPL",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
